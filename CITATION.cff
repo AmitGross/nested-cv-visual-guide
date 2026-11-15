@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this figure, please cite it as below."
+type: dataset
+title: "An End-to-End Visual Guide to Nested Cross-Validation and Model Selection"
+version: 1.0.0
+date-released: 2026-11-15
+authors:
+  - family-names: Gross
+    given-names: Amit
+    orcid: "https://orcid.org/0000-0003-2813-8389"
+license: CC-BY-SA-4.0
+keywords:
+  - machine learning
+  - cross-validation
+  - nested cross-validation
+  - model selection
+  - hyperparameter optimization
+  - model evaluation
+abstract: >-
+  A one-page educational figure explaining nested cross-validation with model
+  selection: an outer k-fold loop to evaluate each model, an inner k-fold loop
+  with a hyperparameter optimizer to tune it, a comparison across models, and a
+  final tuning and test of the winner.
