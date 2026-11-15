@@ -1,5 +1,7 @@
 # An End-to-End Visual Guide to Nested Cross-Validation and Model Selection
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24262771.svg)](https://doi.org/10.5281/zenodo.24262771)
+
 ![Nested cross-validation workflow](figures/nested_cv_workflow.png)
 
 A one-page figure that walks through nested cross-validation with model selection, step by step:
@@ -46,8 +48,10 @@ or any other hyperparameter optimization method without changing the structure.
 
 ## How to cite
 
-Gross, A. (2026). *An End-to-End Visual Guide to Nested Cross-Validation and Model Selection* (Version 1.0.0) [Educational figure].
-DOI: to be added after the first Zenodo release.
+Gross, A. (2026). *An End-to-End Visual Guide to Nested Cross-Validation and Model Selection* (Version 1.0.0) [Educational figure]. Zenodo. https://doi.org/10.5281/zenodo.24262772
+
+- Cite a specific version: the version DOI above (v1.0.0).
+- Cite whichever version is newest: the concept DOI, [10.5281/zenodo.24262771](https://doi.org/10.5281/zenodo.24262771), which always points to the latest release.
 
 See also `CITATION.cff`.
 

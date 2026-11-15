@@ -3,6 +3,7 @@ message: "If you use this figure, please cite it as below."
 type: dataset
 title: "An End-to-End Visual Guide to Nested Cross-Validation and Model Selection"
 version: 1.0.0
+doi: 10.5281/zenodo.24262772
 date-released: 2026-11-15
 authors:
   - family-names: Gross
